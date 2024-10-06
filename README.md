@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1923-sentence-similarity-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1923-sentence-similarity-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Two Pointers
+|  |
+| ------- |
+| [1923-sentence-similarity-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1923-sentence-similarity-iii) |
+## String
+|  |
+| ------- |
+| [1923-sentence-similarity-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1923-sentence-similarity-iii) |
 <!---LeetCode Topics End-->
