@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Prefix Sum
 |  |
@@ -142,8 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
