@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0044-wildcard-matching) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0044-wildcard-matching) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0044-wildcard-matching) |
 | [1197-parsing-a-boolean-expression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0044-wildcard-matching) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
