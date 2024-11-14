@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -211,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
