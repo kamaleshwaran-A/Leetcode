@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0052-n-queens-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
