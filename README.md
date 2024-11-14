@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0060-permutation-sequence) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2716-prime-subtraction-operation](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0060-permutation-sequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
