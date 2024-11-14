@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
 |  |
