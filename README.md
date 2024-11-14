@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0812-rotate-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Backtracking
