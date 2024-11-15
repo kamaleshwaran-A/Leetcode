@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2716-prime-subtraction-operation](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
