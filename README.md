@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
 |  |
@@ -249,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -306,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
