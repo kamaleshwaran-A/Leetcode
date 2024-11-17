@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kamaleshwaran-A/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -313,10 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Memoization
 |  |
 | ------- |
