@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-sliding-puzzle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-sliding-puzzle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-sliding-puzzle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2089-maximum-matrix-sum) |
