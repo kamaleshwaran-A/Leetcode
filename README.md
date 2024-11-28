@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-sliding-puzzle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -355,9 +359,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
