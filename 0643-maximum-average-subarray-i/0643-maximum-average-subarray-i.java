@@ -10,7 +10,7 @@ class Solution {
         maxavg=avg;
         for(i=k;i<nums.length;i++)
         {
-            sum=(double)(sum+nums[i]-nums[c]);
+            sum=sum+nums[i]-nums[c];
             c++;
             avg=sum/k;
             if(maxavg<avg)
