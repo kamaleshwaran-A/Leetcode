@@ -1,23 +1,27 @@
-import java.util.HashMap;
-
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int count = 0;
-
-        for (int num : nums) {
-            int complement = k - num;
-
-            // Check if the complement exists in the map
-            if (map.getOrDefault(complement, 0) > 0) {
+        int i,j,count=0;
+        Arrays.sort(nums);
+        i=0;
+        j=nums.length-1;
+        while(i<j)
+        {
+            if(nums[i]+nums[j]==k)
+            {
                 count++;
-                map.put(complement, map.get(complement) - 1); // Decrease the count of the complement
-            } else {
-                // Add the current number to the map
-                map.put(num, map.getOrDefault(num, 0) + 1);
+                i++;
+                j--;
+            }
+            else if(nums[i]+nums[j]>k)
+            {
+                j--;
+            }
+            else if(nums[i]+nums[j]<k)
+            {
+                i++;
             }
         }
-
         return count;
+        
     }
 }
