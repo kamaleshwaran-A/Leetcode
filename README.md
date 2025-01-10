@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
