@@ -139,6 +139,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -326,6 +327,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -621,6 +623,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
@@ -648,4 +651,8 @@
 | [0684-redundant-connection](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
