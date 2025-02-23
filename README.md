@@ -41,6 +41,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -133,6 +134,7 @@
 | [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -458,6 +460,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -493,6 +496,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -607,6 +611,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
