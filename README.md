@@ -629,6 +629,7 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Queue
 |  |
 | ------- |
