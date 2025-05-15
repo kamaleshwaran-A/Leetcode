@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0494-target-sum) |
@@ -595,6 +596,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -633,12 +635,14 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -718,17 +722,20 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kamaleshwaran-A/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kamaleshwaran-A/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Rolling Hash
 |  |
