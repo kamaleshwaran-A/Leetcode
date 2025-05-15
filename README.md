@@ -10,6 +10,7 @@
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0273-integer-to-english-words](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0282-expression-add-operators) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -40,6 +41,7 @@
 | [0330-patching-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0330-patching-array) |
 | [0336-palindrome-pairs](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0407-trapping-rain-water-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
@@ -144,6 +146,7 @@
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
@@ -777,6 +780,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -785,4 +789,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
