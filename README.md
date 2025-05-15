@@ -275,6 +275,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0392-is-subsequence) |
@@ -487,6 +488,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -501,6 +503,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -523,6 +526,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -534,6 +538,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -779,6 +784,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
