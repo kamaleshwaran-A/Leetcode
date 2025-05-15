@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0282-expression-add-operators](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0282-expression-add-operators) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -258,6 +259,7 @@
 | [0127-word-ladder](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0282-expression-add-operators](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0443-string-compression) |
@@ -427,6 +429,7 @@
 | [0052-n-queens-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0140-word-break-ii) |
+| [0282-expression-add-operators](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
