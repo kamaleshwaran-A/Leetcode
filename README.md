@@ -43,6 +43,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0403-frog-jump](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0494-target-sum) |
@@ -583,6 +584,7 @@
 | [0312-burst-balloons](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
