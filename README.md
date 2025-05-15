@@ -282,6 +282,7 @@
 | [0336-palindrome-pairs](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0392-is-subsequence) |
+| [0420-strong-password-checker](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0420-strong-password-checker) |
 | [0443-string-compression](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0952-word-subsets) |
@@ -380,6 +381,7 @@
 | [0239-sliding-window-maximum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0420-strong-password-checker) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -406,6 +408,7 @@
 | [0135-candy](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0420-strong-password-checker) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
