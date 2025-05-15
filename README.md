@@ -604,6 +604,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -732,6 +733,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Binary Indexed Tree
@@ -769,6 +771,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kamaleshwaran-A/Leetcode/tree/master/2434-design-a-number-container-system) |
