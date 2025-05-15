@@ -37,6 +37,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0330-patching-array) |
 | [0407-trapping-rain-water-ii](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
@@ -391,6 +392,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0330-patching-array) |
 | [0605-can-place-flowers](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/kamaleshwaran-A/Leetcode/tree/master/0670-maximum-swap) |
